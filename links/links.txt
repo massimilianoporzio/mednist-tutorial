@@ -1,0 +1,5 @@
+PAGINA	URL
+ROC_wikipedia	https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+Plot Classification Report	https://stackoverflow.com/questions/28200786/how-to-plot-scikit-learn-classification-report
+DenseNet	https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a
+1x1 conv	https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/
